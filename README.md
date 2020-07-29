@@ -1,1 +1,1 @@
-"# 3rd Party Install Scripts" 
+# 3rd Party Install Scripts
